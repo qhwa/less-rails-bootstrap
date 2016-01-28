@@ -17,5 +17,5 @@ Gem::Specification.new do |gem|
   gem.add_runtime_dependency     'less-rails', '~> 2.7.0'
   gem.add_development_dependency 'minitest'
   gem.add_development_dependency 'guard-minitest'
-  gem.add_development_dependency 'rails',  '~> 3.1'
+  gem.add_development_dependency 'rails',  '>= 3.1'
 end
